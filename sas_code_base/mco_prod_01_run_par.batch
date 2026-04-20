@@ -1,0 +1,6 @@
+OK;data@alandsbanken.fi;Batch Successful
+FAULT;data@alandsbanken.fi;Batch Failed 
+
+STEP;1;SAS;jobs/mco_ctrl.par_cparty_risk_wt.sas
+STEP;2;SAS;jobs/mco_ctrl.par_risk_factor.sas
+STEP;3;SAS;jobs/mco_ctrl.par_convert_value.sas

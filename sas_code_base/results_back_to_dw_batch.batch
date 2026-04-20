@@ -1,0 +1,4 @@
+OK;Anuradha.Srivastava@aureolis.com michael.lawns@aureolis.com ;Hypo Batch Successful
+FAULT;Anuradha.Srivastava@aureolis.com michael.lawns@aureolis.com ;Hypo Batch Failed
+
+STEP;1;SAS;jobs/meh_todw.ecl_results.sas
