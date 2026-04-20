@@ -1,3 +1,0 @@
-FAULT;data@alandsbanken.fi;Batch Failed
-
-STEP;1;SAS;manual/mac_manual.copy_itrm_shadow_to_resu.sas

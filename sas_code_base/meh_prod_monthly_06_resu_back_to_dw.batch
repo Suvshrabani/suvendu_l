@@ -1,3 +1,0 @@
-FAULT;data@alandsbanken.fi;Hypo Batch Failed
-STEP;1;SAS;jobs/meh_todw.ecl_results.sas
-STEP;2;SAS;manual/meh_manual.meh_prod_monthly_06_email.sas
